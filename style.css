@@ -1,0 +1,69 @@
+
+div{
+   background-color: aliceblue;
+      margin: 2px;
+    padding: 10px;
+ 
+}
+h1 ,.cal{
+   text-align: center;
+
+
+}
+h1{
+
+    text-shadow: 2px 3px rgb(31, 222, 107);
+    font-family: cursive;
+    box-shadow: 3px 3px 2px rgb(238, 195, 117);
+}
+.container{
+    border-radius: 5px ;
+
+  height: 22pc;
+    width: 17rem;
+    margin: 0 auto;
+    display: grid;
+box-shadow: 2px 2px 4px red;
+
+}
+input{
+ background-color: rgb(242, 232, 232);
+box-sizing: border-box;
+margin: 5px;
+
+height: 25px;
+box-shadow: 2px 2px 5px rgb(238, 154, 154);
+border-radius: 2px ;
+border: 2px rgb(243, 240, 240);
+text-align: center;
+}
+button{
+  
+    height: 30px;
+    border: 2px  ;
+    border-radius: 3px ;
+    box-shadow: 2px 3px 4px red;
+ 
+    margin: 15px;
+    background-color: rgb(59, 195, 149);
+    width: 9rem;
+}
+button:hover{
+    font-weight: 700;
+   font-size: large;
+   text-transform: capitalize;
+font-family: monospace;
+
+}
+.message{
+    font-weight: 700;
+    text-align: center;
+    justify-content: space-between;
+    font-family: monospace;
+    font-size: large;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    justify-items: center;
+   
+
+}
